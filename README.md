@@ -1,47 +1,53 @@
-Aprendendo Spring Boot 🚀
+# Aprendendo Spring Boot 🚀
 
-Este repositório é dedicado ao meu processo de aprendizado e desenvolvimento com o Spring Boot e outras tecnologias relacionadas. Ao longo deste projeto, explorarei diversos conceitos e práticas, incluindo Spring Boot, JPA, RESTful APIs, Spring Security, Docker, AWS, e mais. O objetivo é construir aplicações modernas, seguras e escaláveis.
-Status do Desenvolvimento:
+Bem-vindo ao meu repositório! Este projeto é dedicado ao meu aprendizado e desenvolvimento com o **Spring Boot** e outras tecnologias relacionadas. Ao longo das fases, explorarei uma variedade de conceitos e ferramentas essenciais para a criação de aplicações modernas, seguras e escaláveis, como **Spring Boot**, **JPA**, **RESTful APIs**, **Spring Security**, **Docker**, **AWS**, e muito mais.
 
-    Fase 1 - Primeiros Passos com o Spring Boot: ✔️ Concluída
-    Fase 2 - Arquitetura e Estrutura do Spring Framework: ⏳ Em progresso
-    Fase 3 - Desenvolvimento de APIs RESTful: ⏳ Em progresso
-    Fase 4 - Introdução ao Bean Validation e Melhorias da API: ⏳ A ser iniciada
-    Fase 5 - Desenvolvimento da API de Livros: ⏳ A ser iniciada
-    Fase 6 - Spring Security: ⏳ A ser iniciada
-    Fase 7 - Spring Security Avançado: ⏳ A ser iniciada
-    Fase 8 - Documentação de APIs REST: ⏳ A ser iniciada
-    Fase 9 - Conteúdos Avançados (Docker, AWS, etc.): ⏳ A ser iniciada
+---
 
-Ferramentas e Tecnologias:
+## 📅 Status do Desenvolvimento
 
-    Spring Boot
-    Spring Data JPA
-    Spring Security
-    JWT (JSON Web Token)
-    Docker
-    AWS (Amazon Web Services)
+O repositório está dividido em várias fases de aprendizado, com o progresso atual sendo atualizado à medida que avançamos.
 
-Learning Spring Boot 🚀
+### Fases do Projeto:
 
-This repository is dedicated to my learning and development process with Spring Boot and other related technologies. Throughout this project, I will explore various concepts and practices, including Spring Boot, JPA, RESTful APIs, Spring Security, Docker, AWS, and more. The goal is to build modern, secure, and scalable applications.
-Development Status:
+- **Fase 1**: Primeiros Passos com o Spring Boot — ✔️ Concluída
+- **Fase 2**: Arquitetura e Estrutura do Spring Framework — ⏳ Em progresso
+- **Fase 3**: Desenvolvimento de APIs RESTful — ⏳ Em progresso
+- **Fase 4**: Introdução ao Bean Validation e Melhorias da API — ⏳ A ser iniciada
+- **Fase 5**: Desenvolvimento da API de Livros — ⏳ A ser iniciada
+- **Fase 6**: Spring Security — ⏳ A ser iniciada
+- **Fase 7**: Spring Security Avançado — ⏳ A ser iniciada
+- **Fase 8**: Documentação de APIs REST — ⏳ A ser iniciada
+- **Fase 9**: Conteúdos Avançados (Docker, AWS, etc.) — ⏳ A ser iniciada
 
-    Phase 1 - Getting Started with Spring Boot: ✔️ Completed
-    Phase 2 - Spring Framework Architecture and Structure: ⏳ In Progress
-    Phase 3 - Developing RESTful APIs: ⏳ In Progress
-    Phase 4 - Introduction to Bean Validation and API Improvements: ⏳ Upcoming
-    Phase 5 - Developing the Book API: ⏳ Upcoming
-    Phase 6 - Spring Security: ⏳ Upcoming
-    Phase 7 - Advanced Spring Security: ⏳ Upcoming
-    Phase 8 - REST API Documentation: ⏳ Upcoming
-    Phase 9 - Advanced Topics (Docker, AWS, etc.): ⏳ Upcoming
+---
 
-Tools and Technologies:
+## 🛠 Ferramentas e Tecnologias
 
-    Spring Boot
-    Spring Data JPA
-    Spring Security
-    JWT (JSON Web Token)
-    Docker
-    AWS (Amazon Web Services)
+Neste projeto, utilizarei as seguintes ferramentas e tecnologias:
+
+- **Spring Boot**: Framework para desenvolvimento de aplicações Java
+- **Spring Data JPA**: Mapeamento objeto-relacional e persistência de dados
+- **Spring Security**: Implementação de autenticação e autorização
+- **JWT (JSON Web Token)**: Segurança e autenticação em APIs
+- **Docker**: Containerização de aplicações
+- **AWS (Amazon Web Services)**: Deployment em cloud e integração com serviços AWS
+
+---
+
+## 📚 O que aprenderemos?
+
+- **Spring Boot:** Compreenderemos como configurar e iniciar uma aplicação Spring Boot, além de entender a estrutura básica e os componentes do framework.
+- **Arquitetura do Spring Framework:** Vamos explorar como o Spring funciona por trás das câmeras, entendendo a Injeção de Dependência, IoC, e outros conceitos centrais.
+- **Desenvolvimento de APIs RESTful:** Implementaremos APIs RESTful utilizando o Spring Boot, seguindo boas práticas de design e segurança.
+- **Validações e Melhorias na API:** Implementaremos validações de dados com Bean Validation e outras melhorias para otimizar a API.
+- **Desenvolvimento Prático:** Através de projetos como uma API de livros, aplicaremos conceitos de CRUD e a lógica de negócios.
+- **Segurança Avançada com Spring Security:** Vamos aprender a proteger a aplicação com técnicas avançadas de segurança e autenticação.
+- **Documentação de APIs:** Vamos utilizar ferramentas para gerar e documentar nossas APIs de forma clara e eficiente.
+- **Tópicos Avançados:** Abordaremos conteúdos mais avançados, como Docker, AWS, build de aplicações e escalabilidade na nuvem.
+
+---
+
+## 📢 Como Contribuir
+
+Sinta-se à vontade para explorar, sugerir melhorias, ou contribuir com o projeto! Estou aberto a sugestões e contribuições para tornar esse repositório ainda mais completo.
